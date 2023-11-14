@@ -1,0 +1,59 @@
+body{
+	background: #ffc;
+	max-width: 800px;
+	width: 80%;
+	margin: auto;
+}
+h1{
+	background: powderblue;
+}
+
+h2{
+	color: yellow;
+	clear: both;
+}
+
+p{
+	text-align: justify;
+}
+
+#lablec{
+	border-top: 5px double red;
+text-align: center;
+font-weight: bold;
+clear: both;
+
+}
+
+
+
+a:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+  font-size:20px;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+img{
+width: 200px;
+float: left;
+margin-right: 10px;
+}
